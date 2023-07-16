@@ -2,7 +2,7 @@
 
 **`Software and DevOps Engineer`**
 
-Hi there, I am Samy, a software engineer with experience  in building efficient, scalable, and reliable software systems. I am a Good communicator and strategic thinker.
+Hi there, I am Samy, a software engineer with experience  in building efficient, scalable, and reliable software systems.
 
    <p align="left">
       <a href="">
