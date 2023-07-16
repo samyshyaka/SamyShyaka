@@ -22,7 +22,7 @@ I have a rich background in building and deploying efficient, scalable, and reli
    <li><a href="https://app.slsenergy.io/">SLS Monitoring App</a></li>
 </ul>
 
-### Social 📱
+### 📱 Social
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/samuel-dushimimana-shyaka-0aba40184/)
 * 🗣 [Twitter](https://twitter.com/samyshyaka)
