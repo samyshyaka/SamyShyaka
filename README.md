@@ -1,6 +1,8 @@
 # Hi, I'm Samy 👋 
 #### I am a Software and DevOps Engineer
 
+I have a rich background in building and deploying efficient, scalable, and reliable software systems.
+
 #
 
 ### 🧰 Languages and Tools 
