@@ -3,9 +3,8 @@
 **`Software and DevOps Engineer`**
  
 
-
-Hi there 👋, 
-I am Samy, a software engineer with experience  in building efficient, scalable, and reliable software systems.
+#### Hi there 👋, 
+####I am Samy, a software engineer with experience  in building efficient, scalable, and reliable software systems.
 
    <p align="left">
       <a href="">
@@ -50,8 +49,8 @@ I am Samy, a software engineer with experience  in building efficient, scalable,
 
 ### 📺 Latest Projects
 
-[![DevPulse](Link)
-[![Phantom](Link)
+[![DevPulse](https://devpulse.org/)
+[![SLS Monitoring App](https://app.slsenergy.io/)
 
 #
 
