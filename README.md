@@ -27,7 +27,7 @@ I have a background in building and deploying efficient, scalable, and reliable 
 
 ### 📱 Socials
 You can find me on the following social media platforms or send me an email:
-* 👔 [LinkedIn](https://www.linkedin.com/in/samuel-dushimimana-shyaka-0aba40184/)
+* 👔 [LinkedIn](https://www.linkedin.com/in/samuel-d-shyaka-0aba40184/)
 * 🗣 [Twitter](https://twitter.com/samyshyaka)
 * 📷 [Instagram](https://www.instagram.com/samyshyaka/)
 * ✉️ [samyshyaka@gmail.com](mailto:samyshyaka@gmail.com)
