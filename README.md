@@ -1,7 +1,7 @@
 # Hi, I'm Samy 👋 
-#### A Software and DevOps Engineer
+#### A Data Scientist / Data Engineer / Machine Learning Engineer
 
-I have a background in building and deploying efficient, scalable, and reliable software systems.
+With a background in both software development and data analytics, I bridge the gap between robust system architecture and insightful data analysis.
 
 #
 
