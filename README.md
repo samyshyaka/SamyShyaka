@@ -1,5 +1,5 @@
 # Hi, I'm Samy 👋 
-#### Data Scientist | Machine Learning Engineer | Software Engineer
+#### Data Engineer | Software Engineer
 
 With a background in both software development and data analytics, I bridge the gap between robust system architecture and insightful data analysis.
 
