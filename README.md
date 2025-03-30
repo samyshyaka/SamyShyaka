@@ -21,7 +21,7 @@ With a background in both software development and data analytics, I bridge the 
 <ul>
     <li><a href="https://apkit.upanzi.net/">Android Web Test Toolkit</a></li>
     <li><a href="https://app.slsenergy.io/">SLS Monitoring App</a></li>
-   <li><a href="https://devpulse.org/">DevPulse</a></li>
+   <li><a href="https://metron-devpulse.vercel.app/">DevPulse</a></li>
 </ul>
 
 #
