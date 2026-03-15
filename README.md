@@ -1,20 +1,8 @@
 # Hi, I'm Samy 👋 
 #### Software Engineer | Data Engineer
 
-With a background in both software development and data analytics, I bridge the gap between robust system architecture and insightful data analysis.
+Machine Learning Engineer with 4+ years of experience designing and deploying production AI systems that combine NLP, predictive modeling, and large-scale data pipelines. Skilled in Python, R, and SQL, with deep expertise in transformer-based models, LLM-powered agentic applications, and RAG systems. Experienced across AWS, Azure, and GCP, with strong MLOps practices including model monitoring and CI/CD pipelines. Proven ability to translate complex data and research problems into scalable AI solutions that improve decision-making, automation, and operational efficiency.
 
-#
-
-### 🧰 Technologies
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img align="left" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
-<img align="left" src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img  align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-
-#
 
 ### 📺 Latest Projects
 
