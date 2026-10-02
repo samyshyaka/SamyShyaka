@@ -1,7 +1,7 @@
 # Hi, I'm Samy 👋 
-#### Machine Learning Engineer
+#### Data Engineer
 
-Machine Learning Engineer with experience designing and deploying production AI systems that combine NLP, predictive modeling, and large-scale data pipelines. Skilled in Python, R, and SQL, with deep expertise in transformer-based models, LLM-powered agentic applications, and RAG systems. Experienced across AWS, Azure, and GCP, with strong MLOps practices including model monitoring and CI/CD pipelines. Proven ability to translate complex data and research problems into scalable AI solutions that improve decision-making, automation, and operational efficiency.
+Data Engineer with experience building reliable data pipelines, cloud data platforms, and analytics-ready datasets across technology and internet-services environments. Hands-on expertise in Python, SQL, PySpark, Spark, ETL/ELT, data modeling, orchestration, data quality, and AWS-based data services, with additional academic depth in business analytics and information technology. Experienced translating business requirements into governed, scalable data products that improve data availability, pipeline reliability, and reporting performance.
 
 
 ### 📺 Latest Projects
